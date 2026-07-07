@@ -26,6 +26,8 @@ dependencies = [
     "pydantic>=2.0.0",
     "pymongo>=4.0.0",
     "cryptography>=3.0.0",
+    "ty>=0.0.56",
+    "ruff>=0.15.20",
 ]
 [project.urls]
 Homepage = "https://github.com/GoHighLevel/highlevel-api-python"
